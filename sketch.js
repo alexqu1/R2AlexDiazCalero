@@ -173,6 +173,6 @@ function drawProgressBar() {
   if (progress >= 1) {
     fill(255, 255, 0);
     textSize(26);
-    text("✨ ¡Dientes Mostruosamente Limpios!", width/2, 60);
+    text("✨ ¡Dientes Monstruosamente Limpios!", width/2, 60);
   }
 }
